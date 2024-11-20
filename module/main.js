@@ -22,4 +22,12 @@ do something like this.
 
 */
 
+console.log(f.sort([13,4,93,324,423,2,23,534,63,267]))
+console.log(f.add(30, 40))
+console.log(f.subtract(1200, 72))
+console.log(f.multiply(300, 65))
+console.log(f.divide(7892334, 8))
+
+
+
 
